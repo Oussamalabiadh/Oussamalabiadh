@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm OUSSAMA LABIADH</h1>
-<h3 align="center">Frontend Developer Angular</h3>
+<h3 align="center">Full stack developer | AI engineering</h3>
 
 <p align="left"> 
 
