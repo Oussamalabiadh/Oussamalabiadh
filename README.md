@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=oussamalabiadh" alt="oussama-labiadh" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/oussamalabiadh](https://github.com/oussamalabiadh)
+- 👨‍💻 All of my projects are available at [https://labiadh.netlify.app/](https://labiadh.netlify.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
