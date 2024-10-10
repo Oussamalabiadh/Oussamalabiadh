@@ -36,3 +36,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=oussamalabiadh&show_icons=true&locale=en" alt="oussama-labiadh" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=oussamalabiadh&" alt="oussama-labiadh" /></p>
+<img src="https://raw.githubusercontent.com/pythondeveloper6/pythondeveloper6/output/snake.svg" alt="Snake animation" />
